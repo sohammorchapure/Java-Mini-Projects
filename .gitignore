@@ -1,0 +1,9 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore compiled output
+out/
+
+# Ignore other build stuff
+*.class
